@@ -23,7 +23,7 @@ set bFactor=6
 rem time between a kernel start
 set bSleep=25
 
-cd xmrMiner
+cd Windows\xmrMiner
 xmrMiner_0.2.1.exe --url=%poolUrl% -u %xmrAddress% -p %poolPassword% %launchParam% --bfactor=%bFactor% --bsleep=%bSleep%
 rem --donate=0.0 
 

@@ -1,5 +1,13 @@
-# XenoMiner
-Mining library
+###############  XenoMiner  #################
+#		Cryptocurrencies Mining library		#
+#############################################
+
+v1.2.0
+- Add Claymore 10.2 for Linux
+- Add bash script to launch Claymore from Linux
+- Add Linux path
+- Change Windows softs path
+- Change batch paths
 
 v1.1.1
 - Correct Claymore version and add download link in text file

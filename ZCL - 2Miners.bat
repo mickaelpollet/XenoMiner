@@ -3,5 +3,5 @@ GPU_MAX_HEAP_SIZE 100
 GPU_USE_SYNC_OBJECTS 1
 GPU_MAX_ALLOC_PERCENT 100
 GPU_SINGLE_ALLOC_PERCENT 100
-cd claymore_zcash
+cd Windows\claymore_zcash
 ZecMiner64.exe -zpool zcl.2miners.com:2020 -zwal t1XFsUpeJmvu58pnF1RAsPrtdiiKCGB5oVL.Dobby -i 1
