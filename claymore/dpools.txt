@@ -1,0 +1,8 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+# POOL: stratum+tcp://dcr.suprnova.cc:3252, WALLET: Redhex.my, PSW: x
+
+POOL: pasc-eu2.nanopool.org:15555, WALLET: 86646.63e697d558ed82e6.Dobby/mickaelpollet@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-asia1.nanopool.org:15555, WALLET: 86646.63e697d558ed82e6.Dobby/mickaelpollet@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-us-east1.nanopool.org:15555, WALLET: 86646.63e697d558ed82e6.Dobby/mickaelpollet@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-us-west1.nanopool.org:15555, WALLET: 86646.63e697d558ed82e6.Dobby/mickaelpollet@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
