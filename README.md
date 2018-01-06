@@ -1,6 +1,9 @@
 # XenoMiner
 Mining library
 
+v1.1.1
+- Correct Claymore version and add download link in text file
+
 v1.1.0
 - Claymore 10.3 update
 
