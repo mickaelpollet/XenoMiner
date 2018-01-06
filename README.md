@@ -1,6 +1,9 @@
-###############  XenoMiner  #################
-#		Cryptocurrencies Mining library		#
-#############################################
+# XenoMiner
+# Cryptocurrencies Mining library
+##########################################
+
+v1.2.1
+- Change chmod for Linux binaries
 
 v1.2.0
 - Add Claymore 10.2 for Linux
