@@ -1,6 +1,42 @@
 VERSION HISTORY
 
 
+v10.6
+---------------------------------------------------------------------
+
+- fixed critical issue in remote management feature (attacker could crash miner even in read-only mode).
+
+
+
+v10.5
+---------------------------------------------------------------------
+
+- applied another workaround for ADL, you must not see "Temperature control thread hangs" message now.
+- added version for CUDA 9.1.
+- now miner shows a warning if you enabled full remote management (-mport > 0) and did not specify -mpsw parameter.
+- now miner shows a warning if you specified default ETH wallet (from default start.bat).
+
+
+
+v10.4
+---------------------------------------------------------------------
+
+- fixed issue with rejected shares in ETH+SIA mode for Vega cards.
+- improved watchdog for temperature/fan management thread.
+
+
+
+v10.3
+---------------------------------------------------------------------
+
+- added support for Adrenalin drivers (GPU sorting, fan/temperature/clocks management).
+- fixed issue with possible GPU crash during miner shutdown.
+- now miner shows PCI bus number for every GPU.
+- a few minor improvements.
+- EthMan: some bug fixes and minor improvements.
+
+
+
 v10.2
 ---------------------------------------------------------------------
 

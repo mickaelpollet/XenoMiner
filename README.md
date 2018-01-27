@@ -2,6 +2,10 @@
 # Cryptocurrencies Mining library
 ##########################################
 
+v1.3.0
+- Claymore 10.6 update for Windows
+- Claymore 10.6 update for Linux
+
 v1.2.1
 - Change chmod for Linux binaries
 
