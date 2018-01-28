@@ -2,6 +2,9 @@
 # Cryptocurrencies Mining library
 ##########################################
 
+v1.4.0
+- Adding configuration file 'config.txt' where we can add mining parameters for Windows
+
 v1.3.0
 - Claymore 10.6 update for Windows
 - Claymore 10.6 update for Linux

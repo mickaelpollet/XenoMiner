@@ -1,9 +1,11 @@
+for /f "delims=" %%x in (config.txt) do (set "%%x")
+
 rem this is a helper script to start xmrMiner
 
 rem the word "rem" at the beginning of a line is a line with a comment 
 
 rem please substitude with you Monero adress
-set xmrAddress=mickaelpollet@gmail.com
+set xmrAddress=%XMR%
 rem set xmrAddress=4A6RwS6B1g7UX19uLdePtSCrkAmGbgN2V5AD2xZQjYGgHRGqxP2LJMNXdveGqZNbjSTLAEAtDtjpQfiW9Ppf5BMVALXyBSB
 
 rem passwort for your mining pool (very often only a x)
