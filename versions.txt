@@ -1,6 +1,6 @@
 WINDOWS
 
-Claymore : 10.6
+Claymore : 11.5
 https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w
 
 Claymore Criptonote : 11.0

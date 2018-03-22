@@ -2,6 +2,12 @@
 # Cryptocurrencies Mining library
 ##########################################
 
+v1.5.0
+- Claymore 11.5 update for Windows
+- Claymore 11.5 update for Linux
+- Add Musicoin 2Miners Pool
+- Add Ubiq Ubiqpool.io Pool
+
 v1.4.0
 - Adding configuration file 'config.txt' where we can add mining parameters for Windows
 

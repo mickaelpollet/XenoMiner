@@ -1,6 +1,66 @@
 VERSION HISTORY
 
 
+v11.5
+---------------------------------------------------------------------
+
+- added "-oldkernels" option (AMD GPUs only), you can try "-oldkernels 1" to use old-style GPU kernels from v10, they can be more stable for hard OC and custom BIOSes.
+- a bit reduced stale shares for Nvidia GPUs.
+
+
+
+v11.4
+---------------------------------------------------------------------
+
+- fixed issue with stale shares.
+- fixed issue with incorrect shares.
+- a few minor bug fixes and improvements.
+
+
+
+v11.3
+---------------------------------------------------------------------
+
+- added automatic detection of best -dcri values in ASM ETH-only mode if -dcri option is missed. 
+  Press "s" key to see current values, you can also press "z" key to restart detection.
+- improved support for systems with many GPUs (eight and more) and slow CPU: much less CPU load, EthMan works fine now.
+- added assembler kernel for RX550 card. This card is not good for dual mining, but in ETH-only mode ASM kernel is faster by about 7%.
+- added "x" key to select GPU for manual -dcri value adjustment.
+- several minor bug fixes and improvements.
+
+
+
+v11.2
+---------------------------------------------------------------------
+
+- some improvements in AMD GPU kernels, it can increase hashrate a bit in some cases.
+- reduced some delays, it will cause a bit less stale shares.
+
+
+
+v11.1
+---------------------------------------------------------------------
+
+- added SSL support with pool certificate verification, it significantly improves security, use "ssl://" prefix for pools that support SSL encryption.
+- added "-checkcert" option.
+- EthMan updated.
+
+
+
+v11.0
+---------------------------------------------------------------------
+
+- added new algorithm for dual mode: blake2s (stratum pools only), use "-dcoin blake2s" option.
+- added new algorithm for dual mode: keccak (stratum pools only), use "-dcoin keccak" option.
+- reduced devfee for dual mode, now it is 1.5%.
+- for 2GB cards devfee is removed completely, i.e. on 2GB cards you can mine all ETH forks without devfee. Check Readme for details.
+- added "-tstart" option.
+- "-asm 2" option value now supports Tahiti, Tonga, Ellesmere, Baffin; in some cases it can be a bit faster in ETH-only mode.
+- removed "-allcoins exp" option value.
+- a few minor bug fixes and improvements.
+
+
+
 v10.6
 ---------------------------------------------------------------------
 
