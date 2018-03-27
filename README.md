@@ -2,8 +2,15 @@
 # Cryptocurrencies Mining library
 ##########################################
 
+v1.6.2
+- Correct pull variables for Ravencoin
+- Add Ravencoin mining for AMD GPU
+
+v1.6.1
+- Adding Ravencoin mining with difficulty 1 and 16
+
 v1.6.0
-- Adding Neverminer 0.1 for Windows to mine Ravencoin
+- Adding Neverminer 0.1 for Windows to mine Ravencoin with NVIDIA GPU
 
 v1.5.0
 - Claymore 11.5 update for Windows

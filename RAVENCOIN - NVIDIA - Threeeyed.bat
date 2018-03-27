@@ -3,4 +3,4 @@
 for /f "delims=" %%x in (config.txt) do (set "%%x")
 cd Windows\nevermore-win64
 
-ccminer -a x16r -o stratum+tcp://stratum.threeeyed.info:3333 -u REhXBiuqukNhGCyYMyUptBpKWQxrVHR8HR -p x -i 19 --donate 1
+ccminer -a x16r -o stratum+tcp://stratum.threeeyed.info:333%DIFFICULTY_RVN% -u %RVN%.%RIGNAME% -p x -i %MINING_POWER_RVN% --donate 1
