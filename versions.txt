@@ -7,6 +7,8 @@ Claymore Criptonote : 11.0
 
 Claymore ZCash : 12.6
 
+Nevermore : 0.1a
+
 ====================================================================
 LINUX
 

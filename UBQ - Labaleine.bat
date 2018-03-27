@@ -6,4 +6,4 @@ setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
 cd Windows\claymore
-EthDcrMiner64.exe -epool mine.ubiq.labaleine.gg:8088 -ewal %UBQ% -eworker %RIGNAME% -epsw x -allcoins 1 -allpools 1 -mode 1 -dcri 15 -nofee 1 -asm 0 -nodevfee 1
+EthDcrMiner64.exe -epool mine.ubiq.labaleine.gg:8088 -ewal %UBQ% -eworker %RIGNAME% -epsw x -allcoins 1 -allpools 1 -mode 1 -dcri 15 -nofee 1 -asm 0 -nodevfee 1 -ethi %MINING_POWER%
