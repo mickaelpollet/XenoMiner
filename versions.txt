@@ -1,16 +1,31 @@
-WINDOWS
+=========================================================
+=			WINDOWS				=
+=========================================================
 
-Claymore : 11.5
+Claymore : 11.6
 https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w
 
-Claymore Criptonote : 11.0
+Claymore Cryptonote : 11.3
+https://mega.nz/#F!e4JVEAIJ!l1iF4z10fMyJzY5-LnyC2A
 
 Claymore ZCash : 12.6
+https://mega.nz/#F!P0ZjFDjC!Cmb-ZRqlbAnNrajRtp4zvA
 
 Nevermore : 0.1a
 
-====================================================================
-LINUX
+sgminer-x16r : 5-5-5-gm-a
 
-Claymore : 10.6
+xmrMiner : 0.2.1
+
+=========================================================
+=			LINUX				=
+=========================================================
+
+Claymore : 11.6
 https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w
+
+Claymore Cryptonote : 11.3
+https://mega.nz/#F!e4JVEAIJ!l1iF4z10fMyJzY5-LnyC2A
+
+Claymore ZCash : 12.6
+https://mega.nz/#F!P0ZjFDjC!Cmb-ZRqlbAnNrajRtp4zvA

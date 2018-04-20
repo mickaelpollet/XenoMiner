@@ -2,6 +2,17 @@
 # Cryptocurrencies Mining library
 ##########################################
 
+v1.7.0
+- Change configuration files to separate settings, wallets and pools
+- Change all Windows batches to accept new configuration format
+- Claymore 11.6 update for Windows
+- Claymore 11.6 update for Linux
+- Claymore Cryptonote 11.3 update for Windows
+- Claymore Cryptonote 11.3 adding for Linux (/!\ NO BATCH YET /!\)
+- Claymore ZCash 12.6 adding for Linux (/!\ NO BATCH YET /!\)
+- xmrMiner 3.0 update for Windows
+- Separate NVIDIA and AMD batchs for XMR mining
+
 v1.6.2
 - Correct pull variables for Ravencoin
 - Add Ravencoin mining for AMD GPU

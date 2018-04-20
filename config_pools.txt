@@ -1,0 +1,27 @@
+;; POOLS
+
+;; ETHER
+POOL_ETH=eth-eu1.nanopool.org:9999
+POOL_ETH_2=noobpool.com:8008
+
+;; MUSICOIN
+POOL_MUSIC=musicoin.nomnom.technology:9999
+POOL_MUSIC_2=music.2miners.com:4040
+
+;; RAVEN
+POOL_RVN=stratum+tcp://stratum.threeeyed.info:333
+
+;; PASCALCOIN
+POOL_PASC=pasc-eu1.nanopool.org:15555
+
+;; UBIQ
+POOL_UBQ=stratum+tcp://eu2.ubiqpool.io:8008
+POOL_UBQ_2=mine.ubiq.labaleine.gg:8088
+
+;; MONERO
+POOL_XMR=stratum+ssl://xmr-eu1.nanopool.org:14433
+POOL_XMR_2=mickaelpollet@gmail.com
+POOL_XMR_3=stratum+tcp://xmr-eu2.nanopool.org:14444
+
+;; ZCLASSIC
+POOL_ZCL=zcl.2miners.com:2020
